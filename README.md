@@ -1,7 +1,7 @@
 ## Bem Vindo! Eu sou Guilherme César 
 
 
-![GuiCesarsosil GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiCesarsosil&show_icons=true&theme=dracula&count_private=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919&title=Guilherme%20Cesar%20Github%20Stats)
+![GuiCesarsosil GitHub stats](https://github-readme-stats.vercel.app/api?username=GuicesarS&show_icons=true&theme=dracula&count_private=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919&title=Guilherme%20Cesar%20Github%20Stats)
 
 ## Tecnologias que eu estudo no meu cotidiano
 
