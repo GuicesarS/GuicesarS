@@ -1,5 +1,5 @@
 <h1 align="center">👨‍💻 Guilherme César</h1>
-<h3 align="center">Desenvolvedor .NET em formação • Foco em backend e automações</h3>
+<h3 align="center">Desenvolvedor .NET • Foco em backend e automações</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GuicesarS&label=Profile%20views&color=0e75b6&style=flat" alt="GuicesarS" />
@@ -37,29 +37,20 @@ Gosto de entender a fundo o funcionamento das ferramentas que uso, buscando semp
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
   
-  <!-- Postman -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" alt="Postman" />
-  
   <!-- SQL Server -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" alt="SQL Server" />
 </div>
 
 
+## 📊 Estatísticas
 
+<div align="center">
 
----
+![GuicesarS GitHub stats](https://github-readme-stats.vercel.app/api?username=GuicesarS&show_icons=true&theme=tokyonight&count_private=true&title_color=ffffff&icon_color=00bfff&text_color=ffffff&bg_color=0d1117)
 
-### 🚀 Projetos em destaque
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuicesarS&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=ffffff&text_color=ffffff)
 
-📌 [**FuscaFilmes.API**](https://github.com/GuicesarS/EFCore-API)  
-API RESTful feita com .NET 8 + EF Core, arquitetura em camadas e foco em boas práticas.  
-> Aprendi na prática como estruturar relacionamentos 1:1 e M:N, usar Fluent API, async/await, migrations e muito mais!
-
-📌 [**Automação de Planilhas**](https://github.com/GuicesarS/Automacao_Planilhas)  
-Scripts em C# para automatizar a manipulação de dados em planilhas (.xlsx/.csv).  
-> Solução que ajuda empresas a reduzir erros e aumentar produtividade com automações que organizam, corrigem e processam dados com eficiência.
-
----
+</div>
 
 ### 📊 GitHub Stats
 
@@ -75,5 +66,3 @@ Scripts em C# para automatizar a manipulação de dados em planilhas (.xlsx/.csv
 💼 [LinkedIn](https://www.linkedin.com/in/guicesarss/)
 📂 [Projetos no GitHub](https://github.com/GuicesarS?tab=repositories)
 
-
-> 💬 “Estudo todos os dias porque sei onde quero chegar.”
