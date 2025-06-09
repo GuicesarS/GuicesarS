@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Guilherme César</h1>
+<h1 align="center">👨‍💻 Guilherme Soares</h1>
 <h3 align="center">Desenvolvedor .NET • Foco em backend e automações</h3>
 
 <p align="center">
