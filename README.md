@@ -72,8 +72,8 @@ Scripts em C# para automatizar a manipulação de dados em planilhas (.xlsx/.csv
 ### 📫 Contato
 
 📧 Email: guicesarsosil@gmail.com  
-💼 [LinkedIn]((https://www.linkedin.com/in/guicesarss/))  
-📂 [Portfólio de Projetos no GitHub](https://github.com/GuicesarS?tab=repositories)
+💼 [LinkedIn](https://www.linkedin.com/in/guicesarss/)
+📂 [Projetos no GitHub](https://github.com/GuicesarS?tab=repositories)
 
 
 > 💬 “Estudo todos os dias porque sei onde quero chegar.”
