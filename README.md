@@ -44,21 +44,14 @@ Gosto de entender a fundo o funcionamento das ferramentas que uso, buscando semp
 
 ## 📊 Estatísticas
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-![GuicesarS GitHub stats](https://github-readme-stats.vercel.app/api?username=GuicesarS&show_icons=true&theme=tokyonight&count_private=true&title_color=ffffff&icon_color=00bfff&text_color=ffffff&bg_color=0d1117)
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=GuicesarS&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=ffffff&icon_color=00bfff&text_color=ffffff&bg_color=0d1117"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuicesarS&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=ffffff&text_color=ffffff)
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuicesarS&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=ffffff&text_color=ffffff&hide_border=true"/>
 
 </div>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuicesarS&show_icons=true&theme=dracula&count_private=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919&hide_border=true" />
-</p>
-
----
 
 ### 📫 Contato
 
