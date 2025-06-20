@@ -7,15 +7,33 @@
 
 ---
 
-### <div align="center">👋 Sobre mim</div>
+<div align="left">
 
-<p align="center">
-  Olá! Me chamo Guilherme César, sou estudante de Análise e Desenvolvimento de Sistemas com grande entusiasmo por desenvolvimento backend, automações e pela stack .NET.
-  <br><br>
-  Atualmente estou focado na criação de APIs modernas, utilizando boas práticas de arquitetura e codificação em C#. Gosto de resolver problemas do dia a dia com soluções automatizadas e eficientes.
-  <br><br>
-  Tenho uma mentalidade voltada para a melhoria contínua e busco entender a fundo as ferramentas que utilizo, sempre priorizando código limpo, escalável e de fácil manutenção.
-</p>
+Olá! Me chamo Guilherme César, sou estudante de Análise e Desenvolvimento de Sistemas com grande entusiasmo por desenvolvimento backend, automações e pela stack .NET.  
+
+Atualmente estou focado na criação de APIs modernas, utilizando boas práticas de arquitetura e codificação em C#. Gosto de resolver problemas do dia a dia com soluções automatizadas e eficientes.  
+
+Tenho uma mentalidade voltada para a melhoria contínua e busco entender a fundo as ferramentas que utilizo, sempre priorizando código limpo, escalável e de fácil manutenção.  
+
+</div>
+
+
+---
+
+### 🔎 Projetos em Destaque
+
+### Automação de Planilhas
+
+Desenvolvi automações utilizando C#, integradas a uma API externa, que tinha como objetivo coletar dados de atendimentos, como: informações dos clientes, empresas, equipes responsáveis, datas e detalhes específicos dos serviços prestados.
+
+Através do consumo dessa API, os dados eram processados, tratados e organizados, possibilitando gerar relatórios personalizados e estruturados conforme as demandas internas. Essa automação eliminou tarefas manuais, acelerou processos operacionais e garantiu uma entrega muito mais ágil, precisa e eficiente das informações.
+
+**Benefícios:**
+
+- Automatiza tarefas repetitivas  
+- Minimiza erros operacionais  
+- Garante maior consistência dos dados  
+- Aumenta produtividade e acelera entrega de relatórios confiáveis
 
 ---
 
@@ -45,6 +63,9 @@
 
   <!-- Linux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" style="margin: 0 10px;" />
+
+  <!-- Excel -->
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
 </p>
 
 ---
