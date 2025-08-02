@@ -1,77 +1,105 @@
 <h1 align="center">👨‍💻 Guilherme Soares</h1>
-<h3 align="center">Desenvolvedor .NET • Foco em backend e automações</h3>
+<h3 align="center">.NET Back-End Developer • Automações & APIs REST</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GuicesarS&label=Profile%20views&color=0e75b6&style=flat" alt="GuicesarS" />
 </p>
 
----
-
-<div align="left">
-
-Olá! Me chamo Guilherme César, sou estudante de Análise e Desenvolvimento de Sistemas com grande entusiasmo por desenvolvimento backend, automações e pela stack .NET.  
-
-Atualmente estou focado na criação de APIs modernas, utilizando boas práticas de arquitetura e codificação em C#. Gosto de resolver problemas do dia a dia com soluções automatizadas e eficientes.  
-
-Tenho uma mentalidade voltada para a melhoria contínua e busco entender a fundo as ferramentas que utilizo, sempre priorizando código limpo, escalável e de fácil manutenção.  
-
-</div>
-
+<p align="center">
+  <strong>Scroll down for English version</strong> 🇺🇸 | 🇧🇷 Leia abaixo em Português
+</p>
 
 ---
 
-### 🔎 Projetos em Destaque
+## 👋 Sobre mim
 
-### Automação de Planilhas
+Sou desenvolvedor back-end focado na stack .NET, com paixão por criar APIs robustas, automatizar processos e escrever código limpo e sustentável. Atualmente, busco minha primeira oportunidade profissional como Dev Back-End Júnior.
 
-Desenvolvi automações utilizando C#, integradas a uma API externa, que tinha como objetivo coletar dados de atendimentos, como: informações dos clientes, empresas, equipes responsáveis, datas e detalhes específicos dos serviços prestados.
+Tenho uma base sólida em C#, ASP.NET Core Web API, Entity Framework e automações com integração a APIs externas. Também estudo arquitetura limpa e boas práticas de versionamento, testes e CI/CD.
 
-Através do consumo dessa API, os dados eram processados, tratados e organizados, possibilitando gerar relatórios personalizados e estruturados conforme as demandas internas. Essa automação eliminou tarefas manuais, acelerou processos operacionais e garantiu uma entrega muito mais ágil, precisa e eficiente das informações.
-
-**Benefícios:**
-
-- Automatiza tarefas repetitivas  
-- Minimiza erros operacionais  
-- Garante maior consistência dos dados  
-- Aumenta produtividade e acelera entrega de relatórios confiáveis
+> **Diferenciais**: Boa comunicação, aprendizado rápido e foco em resolver problemas com eficiência.
 
 ---
 
-### <div align="center">🛠️ Linguagens e Tecnologias</div>
+### 🔧 Tecnologias que uso com confiança
 
 <p align="center">
-  <!-- Linguagens -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" alt="SQL Server" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
-
-  <!-- Tecnologias -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" alt=".NET" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure DevOps" />
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40" alt="Excel" />
+  <!-- Linguagens de programação primeiro -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,cs" style="height:40px; margin-right:12px;" />
+  
+  <!-- Tecnologias depois -->
+  <img src="https://skillicons.dev/icons?i=dotnet,git,linux,docker,azure,postman" style="height:40px; margin-right:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server" />
 </p>
 
 
+
+
 ---
 
-## <div align="center">📊 Estatísticas</div>
+## 🚀 Projetos em Destaque
+
+### 📊 [Automação de Planilhas](https://github.com/GuicesarS/Automacao_Planilhas)
+
+> **Resumo:** Automatizei a coleta e o tratamento de dados de uma API externa usando C#, gerando relatórios inteligentes em Excel com foco em produtividade e redução de erros operacionais.
+
+**Benefícios:**
+- Automatização de tarefas repetitivas
+- Maior consistência dos dados
+- Aumento da produtividade
+- Eliminação de trabalho manual
+
+---
+
+### 🍽️ [RangoÁgil API](https://github.com/GuicesarS/RangoAgil_WebAPI)
+
+> **Resumo:** API RESTful construída com .NET 8 e Minimal APIs, focada na gestão de pratos e ingredientes com autenticação via JWT + ASP.NET Identity.
+
+**Tecnologias:**  
+.NET 8 · ASP.NET Core Minimal API · Entity Framework Core · AutoMapper · JWT · Swagger · CI/CD
+
+**Funcionalidades:**
+- Cadastro e autenticação de usuários
+- Geração de tokens JWT
+- CRUD completo de pratos e ingredientes
+- Confirmação de e-mail e recuperação de senha
+- Arquitetura modular e escalável
+
+---
+
+## 📚 Certificações & Cursos
+
+- [x] Udemy – .NET Core para o mercado (ASP.NET Core Web APIs, EF Core, Docker, CI/CD, Scrum, SonarCloud, Azure DevOps)
+- [x] Udemy – C# Programação Orientada a Objetos + Projetos
+- [x] Udemy – Minimal APIs com ASP.NET Core
+- [x] Udemy – Entity Framework Core Completo
+- [x] Udemy – SQL Server Completo
+
+---
+
+## 📈 Estatísticas GitHub
 
 <p align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=GuicesarS&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=ffffff&icon_color=00bfff&text_color=ffffff&bg_color=0d1117"/>
-
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuicesarS&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=ffffff&text_color=ffffff&hide_border=true"/>
 </p>
 
 ---
 
-### 📫 Contato
+## 📬 Contato
 
 📧 Email: guicesarsosil@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/guicesarss/)  
-📂 [Projetos no GitHub](https://github.com/GuicesarS?tab=repositories)
+📂 [GitHub Repositórios](https://github.com/GuicesarS)
+
+---
+
+## 🇺🇸 English Version
+
+I’m a Brazilian back-end developer focused on the .NET ecosystem. I build robust APIs and create automation tools to streamline workflows and increase efficiency. Currently seeking an entry-level back-end position where I can contribute and grow with a strong technical team.
+
+**Skills:**  
+C# · ASP.NET Core · REST APIs · Entity Framework · SQL Server · Git · Docker · Azure · Clean Architecture
+
+---
+
