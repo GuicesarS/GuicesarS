@@ -1,5 +1,5 @@
 <h1 align="center">👨‍💻 Guilherme Soares</h1>
-<h3 align="center">Back-End Developer em formação • APIs REST • .NET & PHP</h3>
+<h3 align="center">Desenvolvedor Back-End em formação • APIs REST • .NET</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GuicesarS&label=Profile%20views&color=0e75b6&style=flat" alt="GuicesarS" />
@@ -9,20 +9,17 @@
 
 ## 👋 Sobre mim
 
-Desenvolvedor back-end apaixonado por criar APIs robustas e automações eficientes. Busco minha primeira oportunidade como Dev Back-End Júnior, com experiência nas stacks **C#** e **PHP**, frameworks como **ASP.NET Core**, **Entity Framework**, **PDO**, e integração de APIs externas.
+Sou um desenvolvedor back-end em início de carreira, focado no ecossistema **C# e .NET**, com experiência prática no desenvolvimento de **APIs REST**, automações e projetos fullstack. Tenho uma base sólida em lógica, integração de sistemas e resolução de problemas, adquirida através de experiências anteriores com suporte técnico e automação.
 
-Tenho facilidade para aprender rápido, boa comunicação e foco em entregar soluções práticas e de qualidade. Atualmente expandindo meus conhecimentos em diferentes tecnologias back-end para me tornar um desenvolvedor mais versátil.
+Atualmente estou aprofundando meus conhecimentos em **ASP.NET Core**, **Entity Framework Core**, **SQL Server**, testes, Docker e boas práticas de arquitetura. Busco minha primeira oportunidade como **Desenvolvedor Back-End Júnior** ou **Estagiário**, onde possa contribuir, aprender e evoluir dentro de uma equipa de desenvolvimento.
 
 ---
 
-### 🔧 Tecnologias
+## 🔧 Tecnologias
 
 <p align="center">
-  <!-- Linguagens -->
-  <img src="https://skillicons.dev/icons?i=cs,php,js,html,css" style="height:40px; margin-right:12px;" />
-  
-  <!-- Frameworks e Ferramentas -->
-  <img src="https://skillicons.dev/icons?i=dotnet,mysql,git,linux,docker,azure,postman" style="height:40px; margin-right:12px;" />
+  <img src="https://skillicons.dev/icons?i=cs,ts,js,html,css" height="40" />
+  <img src="https://skillicons.dev/icons?i=dotnet,angular,git,linux,docker,azure,postman" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server" />
 </p>
 
@@ -31,53 +28,52 @@ Tenho facilidade para aprender rápido, boa comunicação e foco em entregar sol
 ## 🚀 Projetos em Destaque
 
 ### 🍳 [My Recipe Book API](https://github.com/GuicesarS/MyRecipeBookApi)
-
-API completa para gerenciamento de receitas em **.NET Core 6+** com autenticação JWT, integração com GoogleAI Gemini para geração de receitas, e arquitetura DDD. Inclui upload de imagens, login com Google e mensageria com Service Bus.
+API para gestão de receitas, desenvolvida com **ASP.NET Core**, **Entity Framework Core** e autenticação JWT. Estruturada em camadas e com foco em organização e boas práticas.
 
 ---
 
 ### 🍽️ [RangoÁgil API](https://github.com/GuicesarS/RangoAgil_WebAPI)
+API REST em **.NET 8**, com CRUD de pratos e categorias, autenticação JWT e arquitetura simples e modular.
 
-API RESTful em **.NET 8** com Minimal APIs, CRUD de pratos/ingredientes e autenticação JWT. Arquitetura modular e escalável focada em performance.
+---
+
+### 📰 [Blog de Notícias – Fullstack](https://github.com/GuicesarS/CodePulse.API)
+Aplicação fullstack com **Angular** no frontend e **.NET 8** no backend, simulando um portal de notícias com autenticação e gestão de conteúdos.
 
 ---
 
 ### 📊 [Automação de Planilhas](https://github.com/GuicesarS/Automacao_Planilhas)
-
-Sistema de automação em **C#** que coleta e trata dados via API, gerando relatórios Excel que aumentam produtividade e reduzem erros operacionais.
+Scripts em **C#** para automação de processamento de dados, geração de relatórios e integração com APIs, reduzindo tarefas manuais.
 
 ---
 
 ## 📚 Certificações & Cursos
 
-- [x] Udemy – .NET Core para o mercado (ASP.NET Core Web APIs, EF Core, Docker, CI/CD, Scrum, SonarCloud, Azure DevOps)
-- [x] Udemy – C# Programação Orientada a Objetos + Projetos
-- [x] Udemy – Minimal APIs com ASP.NET Core
-- [x] Udemy – Entity Framework Core Completo
-- [x] Udemy – SQL Server Completo
-- [x] Udemy – PHP do básico ao avançado
+- ✅ ASP.NET Core Web APIs, EF Core, Docker, CI/CD, Scrum, Azure DevOps – Udemy  
+- ✅ C# Programação Orientada a Objetos + Projetos – Udemy  
+- ✅ Minimal APIs com ASP.NET Core – Udemy  
+- ✅ Entity Framework Core Completo – Udemy  
+- ✅ SQL Server Completo – Udemy  
+- ✅ Angular + TypeScript (em andamento) – Udemy  
 
 ---
 
-## 📈 Estatísticas GitHub
+## 📈 Atividade no GitHub
 
-<p align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=GuicesarS&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=ffffff&icon_color=00bfff&text_color=ffffff&bg_color=0d1117"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuicesarS&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=ffffff&text_color=ffffff&hide_border=true"/>
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GuicesarS&theme=tokyo-night)
 
 ---
 
 ## 📬 Contato
 
-📧 guicesarsosil@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/guicesarss/)  
-📂 [GitHub](https://github.com/GuicesarS)
+📧 **guicesarsosil@gmail.com**  
+💼 **[LinkedIn](https://www.linkedin.com/in/guicesarss/)**  
+📂 **[GitHub](https://github.com/GuicesarS)**
 
 ---
 
 ## 🇺🇸 English Version
 
-I'm a Brazilian back-end developer passionate about building robust APIs and automation tools. Seeking my first junior back-end role with skills in **C#**, **ASP.NET Core**, **Entity Framework**, **PHP**, and API integrations.
+I'm a Brazilian back-end developer focused on building REST APIs, automation tools and fullstack applications using **C#**, **.NET**, and **Angular**. I’m currently seeking my first opportunity as a **Junior Back-End Developer**, with hands-on experience in ASP.NET Core, Entity Framework Core, SQL Server and TypeScript.
 
-Fast learner, strong communicator, focused on practical and quality solutions.
+Fast learner, strong communicator and highly motivated to grow in modern backend development.
