@@ -1,5 +1,5 @@
 <h1 align="center">👨‍💻 Guilherme Soares</h1>
-<h3 align="center">Analista de Suporte de Sistemas • Automação em C# • APIs REST • .NET</h3>
+<h3 align="center">Desenvolvedor Back-End em formação • APIs REST • .NET</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GuicesarS&label=Profile%20views&color=0e75b6&style=flat" alt="GuicesarS" />
@@ -9,18 +9,17 @@
 
 ## 👋 Sobre mim
 
-Sou **Analista de Suporte de Sistemas (N2/N3)** com forte base em **desenvolvimento back-end e automação em C#/.NET**, atuando na análise de incidentes, troubleshooting, suporte a sistemas corporativos e integração entre aplicações.
+Sou um desenvolvedor back-end em início de carreira, focado no ecossistema **C# e .NET**, com experiência prática no desenvolvimento de **APIs REST**, automações e projetos fullstack. Tenho uma base sólida em lógica, integração de sistemas e resolução de problemas, adquirida através de experiências anteriores com suporte técnico e automação.
 
-Possuo experiência prática com **APIs REST**, automação de processos, análise de logs, validação de correções e suporte próximo a times de desenvolvimento. Essa combinação entre **suporte técnico e programação** me permite diagnosticar problemas com mais profundidade e propor soluções eficientes.
-
-Atualmente mantenho projetos pessoais focados em **APIs, automação e boas práticas de backend**, reforçando meu conhecimento técnico e minha capacidade de atuar em ambientes produtivos.
+Atualmente estou aprofundando meus conhecimentos em **ASP.NET Core**, **Entity Framework Core**, **SQL Server**, testes, Docker e boas práticas de arquitetura. Busco minha primeira oportunidade como **Desenvolvedor Back-End Júnior** ou **Estagiário**, onde possa contribuir, aprender e evoluir dentro de uma equipa de desenvolvimento.
 
 ---
 
 ## 🔧 Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,git,linux,docker,postman,azure" height="40" />
+  <img src="https://skillicons.dev/icons?i=cs,ts,js,html,css" height="40" />
+  <img src="https://skillicons.dev/icons?i=dotnet,angular,git,linux,docker,azure,postman" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server" />
 </p>
 
@@ -28,41 +27,53 @@ Atualmente mantenho projetos pessoais focados em **APIs, automação e boas prá
 
 ## 🚀 Projetos em Destaque
 
-### 📊 Automação de Processos (C#)
-Scripts e aplicações em **C#** para automação de rotinas internas, geração de relatórios (Excel/CSV) e integração com APIs, reduzindo tarefas manuais e erros operacionais.
+### 🍳 [My Recipe Book API](https://github.com/GuicesarS/MyRecipeBookApi)
+API para gestão de receitas, desenvolvida com **ASP.NET Core**, **Entity Framework Core** e autenticação JWT. Estruturada em camadas e com foco em organização e boas práticas.
 
 ---
 
-### 🍳 My Recipe Book API
-API REST desenvolvida com **ASP.NET Core**, **Entity Framework Core** e autenticação JWT, aplicando arquitetura em camadas, validações e boas práticas.
+### 🍽️ [RangoÁgil API](https://github.com/GuicesarS/RangoAgil_WebAPI)
+API REST em **.NET 8**, com CRUD de pratos e categorias, autenticação JWT e arquitetura simples e modular.
 
 ---
 
-### 📰 Blog de Notícias – API + Frontend
-Projeto fullstack com **Angular** no frontend e **.NET** no backend, simulando um sistema de gestão de conteúdo com autenticação e integração entre camadas.
+### 📰 [Blog de Notícias – Fullstack](https://github.com/GuicesarS/CodePulse.API)
+Aplicação fullstack com **Angular** no frontend e **.NET 8** no backend, simulando um portal de notícias com autenticação e gestão de conteúdos.
 
 ---
 
-## 📚 Cursos & Formação Técnica
+### 📊 [Automação de Planilhas](https://github.com/GuicesarS/Automacao_Planilhas)
+Scripts em **C#** para automação de processamento de dados, geração de relatórios e integração com APIs, reduzindo tarefas manuais.
 
-- ASP.NET Core Web APIs, EF Core, Docker, CI/CD e Azure DevOps  
-- C# Programação Orientada a Objetos  
-- Entity Framework Core  
-- SQL Server  
-- Angular e TypeScript  
+---
+
+## 📚 Certificações & Cursos
+
+- ✅ ASP.NET Core Web APIs, EF Core, Docker, CI/CD, Scrum, Azure DevOps – Udemy  
+- ✅ C# Programação Orientada a Objetos + Projetos – Udemy  
+- ✅ Minimal APIs com ASP.NET Core – Udemy  
+- ✅ Entity Framework Core Completo – Udemy  
+- ✅ SQL Server Completo – Udemy  
+- ✅ Angular + TypeScript (em andamento) – Udemy  
+
+---
+
+## 📈 Atividade no GitHub
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GuicesarS&theme=tokyo-night)
 
 ---
 
 ## 📬 Contato
 
 📧 **guicesarsosil@gmail.com**  
-💼 **LinkedIn:** https://www.linkedin.com/in/guicesarss/  
-📂 **GitHub:** https://github.com/GuicesarS  
+💼 **[LinkedIn](https://www.linkedin.com/in/guicesarss/)**  
+📂 **[GitHub](https://github.com/GuicesarS)**
 
 ---
 
-## 🇺🇸 English Summary
+## 🇺🇸 English Version
 
-Systems Support Analyst (L2/L3) with a strong background in backend development and automation using **C# and .NET**. Experienced in troubleshooting, incident analysis, REST APIs, system integrations and operational support.
+I'm a Brazilian back-end developer focused on building REST APIs, automation tools and fullstack applications using **C#**, **.NET**, and **Angular**. I’m currently seeking my first opportunity as a **Junior Back-End Developer**, with hands-on experience in ASP.NET Core, Entity Framework Core, SQL Server and TypeScript.
 
-Hands-on experience building automation tools and APIs, bridging the gap between support and development teams.
+Fast learner, strong communicator and highly motivated to grow in modern backend development.
