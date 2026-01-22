@@ -1,5 +1,5 @@
 <h1 align="center">👨‍💻 Guilherme Soares</h1>
-<h3 align="center">Desenvolvedor Back-End em formação • APIs REST • .NET</h3>
+<h3 align="center">Desenvolvedor Back-End • APIs REST • .NET</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GuicesarS&label=Profile%20views&color=0e75b6&style=flat" alt="GuicesarS" />
@@ -9,9 +9,10 @@
 
 ## 👋 Sobre mim
 
-Sou um desenvolvedor back-end em início de carreira, focado no ecossistema **C# e .NET**, com experiência prática no desenvolvimento de **APIs REST**, automações e projetos fullstack. Tenho uma base sólida em lógica, integração de sistemas e resolução de problemas, adquirida através de experiências anteriores com suporte técnico e automação.
+Sou um desenvolvedor back-end, focado no ecossistema **C# e .NET**, com experiência prática no desenvolvimento de **APIs REST**, automações e projetos fullstack. Tenho uma base sólida em lógica, integração de sistemas e resolução de problemas, adquirida através de experiências anteriores com suporte técnico e automação.
 
-Atualmente estou aprofundando meus conhecimentos em **ASP.NET Core**, **Entity Framework Core**, **SQL Server**, testes, Docker e boas práticas de arquitetura. Busco minha primeira oportunidade como **Desenvolvedor Back-End Júnior** ou **Estagiário**, onde possa contribuir, aprender e evoluir dentro de uma equipa de desenvolvimento.
+Atualmente estou aprofundando meus conhecimentos em **ASP.NET Core**, **Entity Framework Core**, **SQL Server**, testes, Docker e boas práticas de arquitetura. Busco minha primeira oportunidade como **Desenvolvedor Back-End**, onde possa contribuir com soluções reais, aprender com times experientes e evoluir tecnicamente dentro do ecossistema .NET.
+
 
 ---
 
