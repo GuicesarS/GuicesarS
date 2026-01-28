@@ -55,7 +55,7 @@ Scripts em **C#** para automação de processamento de dados, geração de relat
 - ✅ Minimal APIs com ASP.NET Core – Udemy  
 - ✅ Entity Framework Core Completo – Udemy  
 - ✅ SQL Server Completo – Udemy  
-- ✅ Angular + TypeScript (em andamento) – Udemy  
+- ✅ Angular + TypeScript – Udemy  
 
 ---
 
